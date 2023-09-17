@@ -1,0 +1,26 @@
+{
+ "id": "UC10_test",
+ "submissions": [
+  {
+   "file": "vitrase-carton-and-container-labels.pdf",
+   "type": "UC10_label_type",
+   "checks": [
+    "strstmtformat"
+   ],
+   "results": {
+    "Original Image Filenames": [
+     "vitrase-carton-and-container-labels_pg1.jpg",
+     "vitrase-carton-and-container-labels_pg2.jpg"
+    ],
+    "Annotated Image Filenames": [
+     "vitrase-carton-and-container-labels_pg1_annotated_img1.jpg",
+     "vitrase-carton-and-container-labels_pg2_annotated_img2.jpg"
+    ],
+    "ProductStrength": [
+     "200 USP Units/mL",
+     "0.93 mg/mL"
+    ]
+   }
+  }
+ ]
+}
