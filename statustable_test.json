@@ -1,0 +1,132 @@
+{
+  "success": true,
+  "message": "Statustable Table scanned",
+  "data": [
+    {
+      "proprietaryName": {
+        "S": "vitraseTest"
+      },
+      "jobId": {
+        "S": "7178b97d-1137-4edb-8112-39a0b4bcfd96"
+      },
+      "supplement": {
+        "N": "42"
+      },
+      "applicationType": {
+        "S": "NDA"
+      },
+      "manufacturer": {
+        "S": "manu3"
+      },
+      "submittalDate": {
+        "S": "2023-09-14"
+      },
+      "reviewer": {
+        "S": "Priyanka"
+      },
+      "files": {
+        "L": [
+          {
+            "S": "vitrase-carton-labels.pdf"
+          }
+        ]
+      },
+      "establishedName": {
+        "S": "vitraseTest2"
+      },
+      "application": {
+        "N": "23"
+      },
+      "routeOfAdmin": {
+        "S": "AURICULAR (OTIC) -C38192"
+      },
+      "reviewDate": {
+        "S": "2023-09-15 01:28:54"
+      }
+    },
+    {
+      "proprietaryName": {
+        "S": "VitraseTest1"
+      },
+      "jobId": {
+        "S": "286ff445-cee7-4801-a340-9ad9005b1c3a"
+      },
+      "supplement": {
+        "N": "1"
+      },
+      "applicationType": {
+        "S": "NDA"
+      },
+      "manufacturer": {
+        "S": "SiegFried"
+      },
+      "submittalDate": {
+        "S": "2023-09-14"
+      },
+      "reviewer": {
+        "S": "Priyanka"
+      },
+      "files": {
+        "L": [
+          {
+            "S": "carton-12mg-nl005.pdf"
+          }
+        ]
+      },
+      "establishedName": {
+        "S": "VitraseTest"
+      },
+      "application": {
+        "N": "125487"
+      },
+      "routeOfAdmin": {
+        "S": "INTRADUODENAL -C38241"
+      },
+      "reviewDate": {
+        "S": "2023-09-14 22:56:13"
+      }
+    },
+    {
+      "proprietaryName": {
+        "S": "Tralement"
+      },
+      "jobId": {
+        "S": "b6c4469b-4a01-4914-8495-ed41d75d06bb"
+      },
+      "supplement": {
+        "N": "25"
+      },
+      "applicationType": {
+        "S": "NDA"
+      },
+      "manufacturer": {
+        "S": "American Regent"
+      },
+      "submittalDate": {
+        "S": "2023-09-15"
+      },
+      "reviewer": {
+        "S": "Priyanka"
+      },
+      "files": {
+        "L": [
+          {
+            "S": "11422-final-pckg-insert.pdf"
+          }
+        ]
+      },
+      "establishedName": {
+        "S": "Trace Elements"
+      },
+      "application": {
+        "N": "5179305"
+      },
+      "routeOfAdmin": {
+        "S": "INTRAVENOUS -C38276"
+      },
+      "reviewDate": {
+        "S": "2023-09-15 05:21:27"
+      }
+    }
+  ]
+}
